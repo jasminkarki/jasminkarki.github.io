@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Project 4
 description: another without an image
 img:
 importance: 3
@@ -15,7 +15,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
+    title: Project
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
