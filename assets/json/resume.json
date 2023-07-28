@@ -1,52 +1,52 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jasmin Karki",
+    "label": "Problem Solver",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jasminkarki8@gmail.com",
+    "phone": "7023735073",
+    "url": "jasminkarki.com.np",
+    "summary": "An engineer who loves solving problems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Mandakini Hostel, IIT Madras, Guindy",
+      "postalCode": "600036",
+      "city": "Chennai",
+      "countryCode": "+91",
+      "region": "India"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Jasmin Karki",
+        "url": "https://linkedin.com/in/jasmin-karki-b58589171"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "IIT Madras",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2023-05-26",
+      "endDate": "",
+      "summary": "Working in the SENSE Lab right now.",
       "highlights": [
-        "Relativity"
+        "Sensing"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Indian Institute of Technology, Madras",
+      "url": "https://www.iitm.ac.in/",
+      "area": "Cyber Physical System",
+      "studyType": "Graduate Studies",
+      "startDate": "2022-07-31",
+      "endDate": "2024-05-31",
+      "score": "8.5",
       "courses": [
-        "Theory of Relativity"
+        "Security","Control Systems", "Data Science", "Communication Networks"
       ]
     }
   ],
@@ -63,15 +63,19 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Nepali",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
+      "language": "Hindi",
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": ["Football", "Manchester United", ""],
   "references": [],
   "projects": []
 }
