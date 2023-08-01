@@ -3,14 +3,19 @@
  ******************************************************************************/
 
 :root {
-  --global-bg-color: #{$white-color};
+  // --global-bg-color: #{$white-color};
+  --global-bg-color: rgba(248, 248, 255); // Ghost White
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
+  // --global-text-color: #{$black-color};
+  --global-text-color: rgba(54, 69, 79);  // Charcoal
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
+  // --global-theme-color: #{$purple-color};
+  --global-theme-color: rgba(93, 63, 211); // Iris
+  --global-hover-color: rgba(114, 47, 55); // Wine
   --global-hover-color: #{$purple-color};
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-dark};
+  // --global-footer-bg-color: #{$grey-color-dark};
+  --global-footer-bg-color: rgba(54, 69, 79); // Charcoal
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
