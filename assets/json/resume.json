@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "IIT Madras",
-      "position": "Research Assistant",
+      "position": "Student",
       "url": "",
       "startDate": "2023-05-26",
       "endDate": "",
@@ -48,14 +48,15 @@
       "courses": [
         "Security","Control Systems", "Data Science", "Communication Networks"
       ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Kathmandu University, Dhulikhel, Nepal",
+      "url": "https://ku.edu.np",
+      "area": "Computer Engineering",
+      "studyType": "Undergraduate Studies",
+      "startDate": "2016-08",
+      "endDate": "2020-11",
+      "score": "3.58/4"
     }
   ],
   "certificates": [],
