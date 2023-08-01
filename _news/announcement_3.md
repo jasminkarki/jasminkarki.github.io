@@ -1,11 +1,14 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: Detailed Announcement
+date: 2016-02-15 07:59:00-0400
+inline: false
 related_posts: false
 ---
 
 A simple inline announcement with Markdown emoji! :sparkles: :smile:
+
+***
 
 Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch.  DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
