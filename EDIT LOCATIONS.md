@@ -27,3 +27,6 @@
     {%- include selected_papers.html %}
     {%- endif %}
 ```
+
+Edited the _base.scss where 100% width of profile reduced to 35% and profile2 added with width 65%.
+Likewise, new snippet added on about.html and also about.md for frontend.
