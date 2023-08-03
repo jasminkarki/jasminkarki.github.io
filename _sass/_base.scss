@@ -115,7 +115,7 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 35%;
 
   .address {
     margin-bottom: 5px;
@@ -136,6 +136,41 @@ blockquote {
 .profile.float-left {
   margin-right: 1rem;
 }
+
+.profile2 {
+  width: 65%;
+
+  .intro {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: sans-serif;
+
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+
+  .education {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: sans-serif;
+    
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+}
+
+.profile2.float-right {
+  margin-left: 1rem;
+}
+
+.profile2.float-left {
+  margin-right: 1rem;
+}
+
 
 @media (min-width: 576px) {
   .profile {
