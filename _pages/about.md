@@ -8,30 +8,27 @@ profile:
   align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Mandakini Hostel</p>
-    <p>IIT Madras, 600036</p>
-    <p>Chennai, Tamil Nadu</p>
 
 profile2:
   align: left
   # image: profile_pic.jpg
   # image_circular: true # crops the image to make it circular
   intro: >
-    <p>Computer Engineer</p>
     <p>MTech student @IIT Madras, Chennai India</p>
     <p>Chennai, Tamil Nadu</p>
 
   education: >
-    <p>Currently studing Masters in Technology with specialization in Cyber Physical Systems(CPS) from IIT Madras
-    <p> 
+    <p> I am currently studing Masters in Technology with specialization in Cyber Physical Systems(CPS) at IIT Madras
+    <p> I completed by Bachelors in Computer Engineering from Kathmandu University
+    <p> After undergraduate, I worked as a Machine Learning Engineer in Fusemachines for two years before joining IIT Madras.
+    <p> During my time at Fuesmachines, I worked in building NLP/ML based systems(topic extraction and report generation, conversational survey platform, chatbots) using cutting edge tools and technologies. 
+    <p> I also created interactive contents as a curriculum engineer on Artificial Intelligence for non-technical professionals and high-school students to begin their career in AI.
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-- 
 
 | Degree              | University       | Year     |
 |---------------------|------------------|----------|
