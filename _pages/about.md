@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+permalink: [Mail Me](maileto:jasminkarki8@gmail.com)[LinkedIn](https://www.linkedin.com/in/jasmin-karki-b58589171/)
+subtitle: MTech Student
 
 profile:
   align: right
