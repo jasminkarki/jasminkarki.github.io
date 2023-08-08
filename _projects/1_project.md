@@ -2,7 +2,7 @@
 layout: page
 title: Wi-Fi CSI based Human Activity Recognition
 description: Recognize human activity(walk, run, idle) using Wi-Fi channel state information obtained from low cost microcontroller, ESP32
-img: assets/img/12.jpg
+img: assets/img/har_data_collection.png
 importance: 1
 github: https://github.com/jasminkarki/Wifi-Sensing-HAR
 category: work
@@ -22,22 +22,21 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
+Device-free Wi-Fi sensing is widely facilitated by the prevailing Linux CSI tool designed for the Intel 5300 Network Interface Card (NIC). However, this tool is constrained by the necessity of a laptop equipped with the specific Intel 5300 NIC card. Moreover, the utilization of the Intel 5300 NIC card is hindered by its inherent drawback of furnishing CSI data solely for 30 out of the 52 subcarriers within a 20 MHz bandwidth.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+Implementation of a real-time human activity recognition system by employing signal processing techniques on
+the Wi-Fi CSI obtained from ESP module fed to an ML model to recognize walking, jogging, and idle activity.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/amp_walk.jpg" title="Amplitude vs time across subcarrier while walking" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/amp_jog.jpg" title="Amplitude vs time across subcarrier while jogging" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Amplitude Variation with time in different activities
 </div>
 
 
