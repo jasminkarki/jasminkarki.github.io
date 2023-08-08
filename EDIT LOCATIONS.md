@@ -77,3 +77,6 @@ profile2:
   education: >
     <p>  ...  </p> 
 ```
+
+Remove subtitles from About.md
+<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
