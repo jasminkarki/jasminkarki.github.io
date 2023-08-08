@@ -23,6 +23,7 @@ profile2:
     <p> After undergraduate, I worked as a Machine Learning Engineer in Fusemachines for two years before joining IIT Madras.
     <p> During my time at Fuesmachines, I worked in building NLP/ML based systems(topic extraction and report generation, conversational survey platform, chatbots) using cutting edge tools and technologies. 
     <p> I also created interactive contents as a curriculum engineer on Artificial Intelligence for non-technical professionals and high-school students to begin their career in AI.
+    
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
