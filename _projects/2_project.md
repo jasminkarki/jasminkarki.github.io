@@ -17,7 +17,7 @@ created a logistic regression model that classifies an individual into one of se
         {% include figure.html path="assets/img/obesity_levels/age_weight.png" title="Obesity Levels in different heights" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.html path="assets/img/bmi_weightobesity.png" title="BMI vs Obesity" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/obesity_levels/bmi_weightobesity.png" title="BMI vs Obesity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
