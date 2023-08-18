@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Estimation of Obesity Levels
-description: a project with a background image and giscus comments
+description: Implemented statistical tests, descriptive, correlation and regression analysis to estimate the obesity levels.
 img: assets/img/obesity_levels/correlation_ObesityLevels.png
 importance: 2
 category: work
+github: https://github.com/jasminkarki/MFDS/blob/main/Project/GE22M019_MFDS_Project_Report.pdf
 giscus_comments: true
 ---
 
