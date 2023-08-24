@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experience/
-title: Professional Experience
+title: Experience
 description: I feel grateful to have gained following experience.
 nav: true
 nav_order: 6
