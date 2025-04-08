@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
 ***
 I'm thrilled to share a significant milestone in my academic journey! After much dedication and careful consideration, I have finalized my Master's Thesis Project and secured an exceptional guide <a href="www.cse.iitm.ac.in/~ayon/#">Prof. Ayon Chakraborty</a> to mentor me along the way.
 
