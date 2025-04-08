@@ -21,17 +21,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I am a data science professional with an experience in AI/ML and currently working as an Analytics Engineer. I graduated with an Masters in Technology(Specialization in Cyber Physical Systems) from IIT Madras(Class of 2024) with `Institute Merit Award` for highest CGPA (9.25/10) in my program. 
 
-
-
-Chennai, Tamil Nadu
-
-
-I am currently studing Masters in Technology with specialization in Cyber Physical Systems(CPS) at IIT Madras (CGPA: 8.59/10)
-
-I completed by Bachelors in Computer Engineering from Kathmandu University (CGPA: 3.58/4)
-
-After undergraduate, I worked as a Machine Learning Engineer in Fusemachines for two years before joining IIT Madras.
+I completed by Bachelors in Computer Engineering from Kathmandu University(Class of 2020) with 3.58/4 CGPA. After undergraduate, I worked as a Machine Learning Engineer in Fusemachines for two years before joining IIT Madras.
 
 During my time at Fuesmachines, I worked in building NLP/ML based systems(topic extraction and report generation, conversational survey platform, chatbots) using cutting edge tools and technologies. 
 
